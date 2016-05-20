@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Greenmicrocycle]]></title>
         <description><![CDATA[Greenmicrocycle]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/greenmicrocycle/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 20 May 2016 15:17:55 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 20 May 2016 15:42:54 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/greenmicrocycle/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Off Grid Charging Options for The Green Microgym's Pedal Generator]]></title>
+            <description><![CDATA[<article><h1>Off Grid Charging Options for The Green Microgym's Pedal Generator</h1><p>Charging a 12 volt battery with The Green Microcycle Plus is very simple.</p></article>]]></description>
+            <link>https://youtu.be/97VcbK2Lw44</link>
+            <guid isPermaLink="false">bd04ebc3-ab43-4f9c-a3b9-fcc2309a8399</guid>
+            <pubDate>Fri, 20 May 2016 15:42:08 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/76d221cf-a2b2-4585-8aad-cd106ba36e3e.jpg">]]></description>
-            <link>undefinedthis-is-the-green-microcycle-plus-from-the-green-microgym-i/index.html</link>
+            <link>https://thegrid.ai/greenmicrocycle/this-is-the-green-microcycle-plus-from-the-green-microgym-i/index.html</link>
             <guid isPermaLink="false">264f9315-4016-47b1-a518-ed4994a921cc</guid>
             <pubDate>Fri, 20 May 2016 15:17:53 GMT</pubDate>
         </item>
