@@ -1,20 +1,23 @@
 ---
-authors: []
-dateModified: '2016-05-20T15:52:46.784Z'
-datePublished: '2016-05-20T15:52:55.341Z'
-description: "This is The Green Microcycle Plus from The Green Microgym. It's a bike. It's an electric bike. And it's an electricity generator."
-hasPage: true
 inFeed: true
+hasPage: true
 inNav: false
+inLanguage: null
 keywords: []
+description: "This is The Green Microcycle Plus from The Green Microgym. It's a bike. It's an electric bike. And it's an electricity generator."
+datePublished: '2016-05-20T17:01:53.747Z'
+dateModified: '2016-05-20T17:01:39.940Z'
 title: ''
 author: []
-starred: false
 sourcePath: _posts/2016-05-20-this-is-the-green-microcycle-plus-from-the-green-microgym-i.md
+authors: []
+publisher: null
+starred: false
 url: this-is-the-green-microcycle-plus-from-the-green-microgym-i/index.html
 _type: Article
 
 ---
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c7a0239d-d120-4c38-9e78-664a3dfd2f2f.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/76d221cf-a2b2-4585-8aad-cd106ba36e3e.jpg)
 
 This is The Green Microcycle Plus from The Green Microgym. It's a bike. It's an electric bike. And it's an electricity generator.
