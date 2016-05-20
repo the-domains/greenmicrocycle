@@ -1,6 +1,6 @@
 name: The Green Microcycle Plus
 favicon: null
-layout_spectrum: 0.6497568611521274
+layout_spectrum: 1
 typography_spectrum: 0.04095143429003656
 title: "The Electric Bicycle That's Also A Pedal Generator"
 cta:
@@ -22,7 +22,7 @@ color:
     - '#43839c'
     - '#afea1e'
     - '#fcffa4'
-  brandStrength: 0.3149106737691909
+  brandStrength: 0.6875
   lightness: 0.5794796925038099
   saturation: 0.8905803617089987
   rhythmicContrast: 0.3028224497102201
