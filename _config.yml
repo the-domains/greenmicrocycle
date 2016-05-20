@@ -1,0 +1,28 @@
+name: Greenmicrocycle
+favicon: null
+layout_spectrum: 0.6497568611521274
+typography_spectrum: 0.04095143429003656
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.3149106737691909
+  lightness: 0.5794796925038099
+  saturation: 0.8905803617089987
+  rhythmicContrast: 0.3028224497102201
+purpose: []
