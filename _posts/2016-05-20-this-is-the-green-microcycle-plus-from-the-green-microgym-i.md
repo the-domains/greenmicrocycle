@@ -5,10 +5,12 @@ inNav: false
 inLanguage: null
 keywords: []
 description: "This is The Green Microcycle Plus from The Green Microgym. It's a bike. It's an electric bike. And it's an electricity generator."
-datePublished: '2016-05-20T17:16:56.865Z'
-dateModified: '2016-05-20T17:13:14.908Z'
+datePublished: '2016-05-20T17:26:04.827Z'
+dateModified: '2016-05-20T17:25:05.419Z'
 title: ''
-author: []
+author:
+  - name: ''
+    url: ''
 sourcePath: _posts/2016-05-20-this-is-the-green-microcycle-plus-from-the-green-microgym-i.md
 authors: []
 publisher: null
