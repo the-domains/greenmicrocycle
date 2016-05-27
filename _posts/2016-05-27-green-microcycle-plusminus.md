@@ -1,9 +1,9 @@
 ---
-dateModified: '2016-05-27T22:16:27.865Z'
-datePublished: '2016-05-27T22:16:36.395Z'
+dateModified: '2016-05-27T23:10:38.168Z'
+datePublished: '2016-05-27T23:10:45.684Z'
 description: 'Folds up into a tiny little package!'
 inFeed: true
-title: Green Microcycle Plus/Minus
+title: The Green Microcycle Plus/Minus
 author: []
 starred: false
 sourcePath: _posts/2016-05-27-green-microcycle-plusminus.md
