@@ -1,10 +1,10 @@
 ---
-dateModified: '2016-05-22T02:34:09.265Z'
-datePublished: '2016-05-22T02:34:10.407Z'
-description: This demo bike also makes electricity.
+dateModified: '2016-05-27T22:15:38.218Z'
+datePublished: '2016-05-27T22:16:00.734Z'
+description: This bike also makes electricity.
 inFeed: true
 isBasedOnUrl: 'https://youtube.com/watch?feature=youtu.be&v=_VWXr-DIMKY'
-title: The Green Microcycle - Rural
+title: The Green Microcycle - Power Plant
 author: []
 starred: false
 sourcePath: _posts/2016-05-22-free-electric-india-pilot-may-2016-update-230.md
@@ -12,7 +12,7 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-![This demo bike also makes electricity.](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c0b3fa0d-f57b-40c4-a273-9ab0b82dfbdb.jpg)
+![This bike also makes electricity.](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c0b3fa0d-f57b-40c4-a273-9ab0b82dfbdb.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8d157b5b-ee75-4ed1-ad45-f3d089e4092b.jpg)
 
 This video (below) is great, but The Green Microcycle (above) is more useful, because you can also use it for transportation.
