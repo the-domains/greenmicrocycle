@@ -1,7 +1,7 @@
 ---
-dateModified: '2016-05-29T15:49:15.944Z'
-datePublished: '2016-05-29T15:49:25.439Z'
-description: 'Price: $2499'
+dateModified: '2016-05-29T15:55:32.849Z'
+datePublished: '2016-05-29T15:55:40.942Z'
+description: ...but only The Green Microcycle also MAKES electricity.
 inFeed: true
 isBasedOnUrl: 'https://electricbikereview.com/easy-motion/neo-volt/'
 title: Compares to these leading ebikes...
