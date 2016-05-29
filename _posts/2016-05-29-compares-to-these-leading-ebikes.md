@@ -1,6 +1,6 @@
 ---
-dateModified: '2016-05-29T15:29:10.161Z'
-datePublished: '2016-05-29T15:29:40.395Z'
+dateModified: '2016-05-29T15:37:54.457Z'
+datePublished: '2016-05-29T15:38:03.106Z'
 description: 'Price: $2499'
 inFeed: true
 isBasedOnUrl: 'https://electricbikereview.com/easy-motion/neo-volt/'
@@ -14,8 +14,8 @@ _type: Article
 ---
 # Compares to these leading ebikes...
 
-...except only The Green Microcycle also makes electricity.
+...except only The Green Microcycle also Makes electricity.
 
 <article style=""><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b611ddec0939157c9150c6cee9956fbbb63c569e.jpg" /><h1>Pedego 24</h1><p>Price: $2995</p></article>
 
-<article style=""><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/aaefb8de9e8c42b125df0829508f7aa6e96c20e3.jpg" /><h1>Easy Motion Neo Volt</h1><p>Price: $2499</p></article>
+<article style=""><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/aaefb8de9e8c42b125df0829508f7aa6e96c20e3.jpg" /><h1>Easy Motion Neo Volt Review</h1><p>Price: $2499</p></article>
