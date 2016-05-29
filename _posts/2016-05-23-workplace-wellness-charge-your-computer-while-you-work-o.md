@@ -1,12 +1,19 @@
 ---
-dateModified: '2016-05-29T03:59:33.439Z'
-datePublished: '2016-05-29T03:59:57.438Z'
-description: Charge your computer while you work - off grid
 inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: null
+inLanguage: null
+keywords: []
+description: Charge your computer while you work - off grid
+datePublished: '2016-05-29T17:15:04.763Z'
+dateModified: '2016-05-29T17:14:59.286Z'
 title: Workplace Wellness
 author: []
-starred: false
 sourcePath: _posts/2016-05-23-workplace-wellness-charge-your-computer-while-you-work-o.md
+authors: []
+publisher: null
+starred: false
 _context: 'http://schema.org'
 _type: Article
 
