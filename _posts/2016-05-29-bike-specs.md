@@ -1,7 +1,8 @@
 ---
 authors: []
-dateModified: '2016-05-29T20:14:30.306Z'
-description: For The Green Microcycle Plus/Minus
+dateModified: '2016-05-29T20:17:56.981Z'
+datePublished: '2016-05-29T20:18:11.742Z'
+description: For the Green Microcycle Plus
 hasPage: false
 inFeed: true
 inNav: false
@@ -9,33 +10,28 @@ keywords: []
 title: Bike Specs
 author: []
 starred: false
-datePublished: '2016-05-29T20:14:38.946Z'
 sourcePath: _posts/2016-05-29-bike-specs.md
 _context: 'http://schema.org'
 _type: Article
 
 ---
-![For The Green Microcycle Plus/Minus](https://the-grid-user-content.s3-us-west-2.amazonaws.com/879696a7-e2ce-44d9-95cb-51226d480bc8.jpg)
+![For the Green Microcycle Plus](https://s3-us-west-2.amazonaws.com/the-grid-img/p/a549cef8e0b1ded3d03f1f1d82222fc0f6546513.jpg)
 
-> MAKE: The Green Microcycle from The Green Microgym
+> MODEL: 26″ Step-Through Green Microcycle Plus
 > 
-> MODEL: 20″ Folding Green Microcycle Plus/Minus
-> 
-> PRICE: $ 2000 USD (Includes indoor stand and grid-tied and off-grid charging components)
+> PRICE:$ 2000 USD (Includes indoor stand and grid-tied and off-grid charging components)
 > 
 > BODY POSITION: Upright Relaxed
 > 
-> SUGGESTED USE: Neighborhood, Urban
+> SUGGESTED USE: Neighborhood, Urban, Beach
 > 
 > WARRANTY: 1 Year Components, 1 Year Battery
 > 
 > AVAILABILITY: United States
 > 
-> **Electronic Details**
+> MOTOR TYPE:Rear-Mounted Gearless Hub
 > 
-> MOTOR TYPE: Rear-Mounted Gearless Hub
-> 
-> NOMINAL OUTPUT: 350watts
+> MOTOR NOMINAL OUTPUT: 350watts
 > 
 > MOTOR BRAND: Shengyi
 > 
@@ -63,9 +59,7 @@ _type: Article
 > 
 > TOP SPEED: 20 mph
 > 
-> **Bicycle Details**
-> 
-> TOTAL WEIGHT: 53 lbs
+> TOTAL WEIGHT: 58 lbs
 > 
 > BATTERY WEIGHT: 7.5 lbs
 > 
@@ -75,14 +69,20 @@ _type: Article
 > 
 > SHIFTER DETAILS: Shimano Thumb Shifter on Right Side
 > 
-> BRAKE DETAILS: Tektro Linear Pull Brake System, Wuxing Levers with Motor Inhibitor
+> PEDALS: Aluminum Alloy Platform
 > 
-> GRIPS: Padded Ergonomic
+> STEM: Fixed Promax
 > 
-> SADDLE: Comfort
+> BRAKE DETAILS: Tektro Mechanical Disc with 160 mm Rotors, Tektro Levers with Motor Inhibitor
 > 
-> WHEEL SIZE: 20in
+> GRIPS: Padded Stitched
 > 
-> ACCESSORIES: Bell, Single-Side Kickstand, Front and Rear LED Lights Powered by Main Battery, Plastic Fenders
+> SADDLE: Kmotion Oversized Comfort
 > 
-> OTHER: Removable Battery Pack (Charge on or off the Bike), Quick-Connect Motor Cable for Easy Repair or Replacement
+> SEAT POST: Suspension Shock
+> 
+> WHEEL SIZE: 26in
+> 
+> ACCESSORIES: Aluminum Alloy Chain Guard, Bell, Single-Side Kickstand, Front LED Light Powered by Main Battery, Metal Fenders
+> 
+> OTHER: Removable Battery Pack (Charge on or off the bike), Quick-Connect Motor Cable for Easy Repair or Replacement
