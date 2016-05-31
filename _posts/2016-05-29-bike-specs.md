@@ -1,13 +1,13 @@
 ---
 authors: []
-dateModified: '2016-05-31T04:30:06.222Z'
-datePublished: '2016-05-31T04:30:14.804Z'
+dateModified: '2016-05-31T04:31:04.566Z'
+datePublished: '2016-05-31T04:31:16.171Z'
 description: 'MODEL: 20″ Folding Green Microcycle Plus/Minus'
 hasPage: false
 inFeed: true
 inNav: false
 keywords: []
-title: ''
+title: Bike Specs
 author: []
 starred: false
 sourcePath: _posts/2016-05-29-bike-specs.md
@@ -15,7 +15,7 @@ _context: 'http://schema.org'
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/0b98f17e-24f9-472e-9e07-961084ed7ece.jpg)
+![For The Green Microcycle Plus/Minus](https://the-grid-user-content.s3-us-west-2.amazonaws.com/0b98f17e-24f9-472e-9e07-961084ed7ece.jpg)
 
 MODEL: 20″ Folding Green Microcycle Plus/Minus
 
