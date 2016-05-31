@@ -1,13 +1,21 @@
 ---
-dateModified: '2016-05-29T03:56:51.908Z'
-datePublished: '2016-05-29T03:57:02.415Z'
-description: 'This simple bike also makes electricity. The stand doubles as a rack!'
 inFeed: true
+hasPage: false
+inNav: false
 isBasedOnUrl: 'https://youtube.com/watch?feature=youtu.be&v=_VWXr-DIMKY'
-title: The Green Microcycle Power Plant
-author: []
-starred: false
+inLanguage: null
+keywords: []
+description: 'This simple bike also makes electricity. The stand doubles as a rack!'
+datePublished: '2016-05-31T01:53:18.914Z'
+dateModified: '2016-05-29T17:16:05.437Z'
+title: The Green Microcycle Power Plant (prototype - not for sale)
+author:
+  - name: ''
+    url: ''
 sourcePath: _posts/2016-05-22-free-electric-india-pilot-may-2016-update-230.md
+authors: []
+publisher: null
+starred: false
 _context: 'http://schema.org'
 _type: MediaObject
 
