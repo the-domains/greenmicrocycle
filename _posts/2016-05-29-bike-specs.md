@@ -1,16 +1,18 @@
 ---
-authors: []
-dateModified: '2016-05-31T04:31:04.566Z'
-datePublished: '2016-05-31T04:31:16.171Z'
-description: 'MODEL: 20″ Folding Green Microcycle Plus/Minus'
-hasPage: false
 inFeed: true
+hasPage: false
 inNav: false
+inLanguage: null
 keywords: []
+description: 'MODEL: 20″ Folding Green Microcycle Plus/Minus'
+datePublished: '2016-05-31T04:46:09.679Z'
+dateModified: '2016-05-31T04:39:07.723Z'
 title: Bike Specs
 author: []
-starred: false
 sourcePath: _posts/2016-05-29-bike-specs.md
+authors: []
+publisher: null
+starred: false
 _context: 'http://schema.org'
 _type: Article
 
