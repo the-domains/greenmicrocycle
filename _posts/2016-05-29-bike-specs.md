@@ -1,29 +1,24 @@
 ---
-inFeed: true
+authors: []
+dateModified: '2016-05-31T04:30:06.222Z'
+datePublished: '2016-05-31T04:30:14.804Z'
+description: 'MODEL: 20″ Folding Green Microcycle Plus/Minus'
 hasPage: false
+inFeed: true
 inNav: false
-isBasedOnUrl: null
-inLanguage: null
 keywords: []
-description: ' '
-datePublished: '2016-05-31T04:24:55.488Z'
-dateModified: '2016-05-31T04:24:28.676Z'
 title: ''
 author: []
-sourcePath: _posts/2016-05-29-bike-specs.md
-authors: []
-publisher: null
 starred: false
+sourcePath: _posts/2016-05-29-bike-specs.md
 _context: 'http://schema.org'
 _type: Article
 
 ---
-> 
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/0b98f17e-24f9-472e-9e07-961084ed7ece.jpg)
 
-> MAKE: The Green Microcycle from The Green Microgym
-> 
-> MODEL: 20″ Folding Green Microcycle Plus/Minus
-> 
+MODEL: 20″ Folding Green Microcycle Plus/Minus
+
 > PRICE: $ 2000 USD (Includes indoor stand and grid-tied and off-grid charging components)
 > 
 > BODY POSITION: Upright Relaxed
