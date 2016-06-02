@@ -6,8 +6,8 @@ isBasedOnUrl: 'http://www.ebw.tv/PlayVideo?vid=50398&desc=The%20First%20%22Green
 inLanguage: null
 keywords: []
 description: "This 2 minute video says it all. I've never been prouder to be part of something as special as this. Kids are reading, riding, making electricity, and getting an experiential STEM education."
-datePublished: '2016-06-02T18:30:34.278Z'
-dateModified: '2016-06-02T18:30:13.167Z'
+datePublished: '2016-06-02T18:44:56.307Z'
+dateModified: '2016-06-02T18:44:53.135Z'
 title: ''
 author: []
 sourcePath: _posts/2016-06-01-the-first-green-read-and-ride-program.md
@@ -19,3 +19,5 @@ _type: MediaObject
 
 ---
 This 2 minute video says it all. I've never been prouder to be part of something as special as this. Kids are reading, riding, making electricity, and getting an experiential STEM education.
+
+http://www.ebw.tv/PlayVideo?vid=50398&desc=The%20First%20%22Green%22%20Read%20and%20Ride%20Program
