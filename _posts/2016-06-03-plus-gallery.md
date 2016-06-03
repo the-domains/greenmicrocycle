@@ -1,10 +1,14 @@
 ---
-dateModified: '2016-06-03T03:17:35.253Z'
+authors: []
+dateModified: '2016-06-03T23:29:17.460Z'
 description: ''
+hasPage: false
 inFeed: true
+inNav: false
+keywords: []
 title: Plus Gallery
 author: []
-datePublished: '2016-06-03T03:17:42.098Z'
+datePublished: '2016-06-03T23:29:25.304Z'
 starred: false
 sourcePath: _posts/2016-06-03-plus-gallery.md
 _context: 'http://schema.org'
@@ -12,7 +16,6 @@ _type: Article
 
 ---
 # Plus Gallery
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/655e6bb9-71df-4e52-9e11-f5f65269699b.jpg)
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/bda36465dc46f02c4b44b210c707c8a6c6a41c3d.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f8894e7f-aed0-4c28-8088-8eeb7d81472b.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/6110c339-5b10-421c-add3-3f6821d35442.jpg)
