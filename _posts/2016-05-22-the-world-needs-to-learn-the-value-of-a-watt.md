@@ -1,9 +1,15 @@
 ---
-dateModified: '2016-06-03T18:49:42.032Z'
-datePublished: '2016-06-03T18:49:50.333Z'
-description: "By Adam Boesel. After the Paris Climate Agreement, we're all wondering what comes next. We will need to make changes, maybe even sacrifices. But which ones, and where? I certainly don't have most of those answers, but I do know this: People all over the world, especially in developed nations like the USA, need to learn the value of a watt."
+dateModified: '2016-06-03T21:05:41.214Z'
+datePublished: '2016-06-03T21:05:56.277Z'
+description: >-
+  By Adam Boesel. After the Paris Climate Agreement, we're all wondering what
+  comes next. We will need to make changes, maybe even sacrifices. But which
+  ones, and where? I certainly don't have most of those answers, but I do know
+  this: People all over the world, especially in developed nations like the USA,
+  need to learn the value of a watt.
 inLanguage: en
-isBasedOnUrl: 'http://cleantechnica.com/2015/12/17/the-world-needs-to-learn-the-value-of-a-watt/'
+isBasedOnUrl: >-
+  http://cleantechnica.com/2015/12/17/the-world-needs-to-learn-the-value-of-a-watt/
 keywords:
   - watt
   - electric
@@ -16,17 +22,19 @@ keywords:
   - energy
   - gym
 publisher:
-  domain: cleantechnica.com
-  favicon: 'http://c1cleantechnicacom.wpengine.netdna-cdn.com/files/2013/06/cleantechnica-news-favicon.jpg'
   name: CleanTechnica
+  domain: cleantechnica.com
   url: 'http://cleantechnica.com'
+  favicon: >-
+    http://c1cleantechnicacom.wpengine.netdna-cdn.com/files/2013/06/cleantechnica-news-favicon.jpg
 title: 'READ THIS FIRST: The World Needs To Learn The Value Of A Watt'
 author: []
-starred: false
 sourcePath: _posts/2016-05-22-the-world-needs-to-learn-the-value-of-a-watt.md
 inFeed: true
 hasPage: false
 inNav: false
+authors: []
+starred: true
 _context: 'http://schema.org'
 _type: MediaObject
 
