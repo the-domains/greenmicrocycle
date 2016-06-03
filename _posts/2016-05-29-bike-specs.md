@@ -1,18 +1,16 @@
 ---
-inFeed: true
-hasPage: false
-inNav: false
-inLanguage: null
-keywords: []
+authors: []
+dateModified: '2016-06-03T22:02:35.458Z'
+datePublished: '2016-06-03T22:03:23.982Z'
 description: 'MODEL: 20″ Folding Green Microcycle Plus/Minus'
-datePublished: '2016-05-31T04:46:09.679Z'
-dateModified: '2016-05-31T04:39:07.723Z'
+hasPage: false
+inFeed: true
+inNav: false
+keywords: []
 title: Bike Specs
 author: []
-sourcePath: _posts/2016-05-29-bike-specs.md
-authors: []
-publisher: null
 starred: false
+sourcePath: _posts/2016-05-29-bike-specs.md
 _context: 'http://schema.org'
 _type: Article
 
@@ -21,8 +19,10 @@ _type: Article
 
 MODEL: 20″ Folding Green Microcycle Plus/Minus
 
-> PRICE: $ 2000 USD (Includes indoor stand and grid-tied and off-grid charging components)
-> 
+BUY NOW
+
+PRICE: $ 2000 USD (Includes indoor stand and grid-tied and off-grid charging components)
+
 > BODY POSITION: Upright Relaxed
 > 
 > SUGGESTED USE: Neighborhood, Urban
