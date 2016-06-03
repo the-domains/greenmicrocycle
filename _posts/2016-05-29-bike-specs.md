@@ -1,7 +1,6 @@
 ---
 authors: []
-dateModified: '2016-06-03T22:16:42.429Z'
-datePublished: '2016-06-03T22:16:49.264Z'
+dateModified: '2016-06-03T22:26:53.520Z'
 description: For the Green Microcycle Plus
 hasPage: false
 inFeed: true
@@ -9,6 +8,7 @@ inNav: false
 keywords: []
 title: Bike Specs
 author: []
+datePublished: '2016-06-03T22:27:01.946Z'
 starred: false
 sourcePath: _posts/2016-05-29-bike-specs.md
 _context: 'http://schema.org'
@@ -19,7 +19,7 @@ _type: Article
 
 > MODEL: 26″ Step-Through Green Microcycle Plus
 > 
-> PRICE:$ USD (Includes indoor stand and grid-tied and off-grid charging components)
+> PRICE: $2050 USD (Includes indoor stand and grid-tied and off-grid charging components)
 > 
 > BODY POSITION: Upright Relaxed
 > 
