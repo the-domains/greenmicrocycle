@@ -1,39 +1,37 @@
 ---
 authors: []
-dateModified: '2016-06-03T22:12:55.969Z'
-description: 'MODEL: 20″ Folding Green Microcycle Plus/Minus'
+dateModified: '2016-06-03T22:16:42.429Z'
+datePublished: '2016-06-03T22:16:49.264Z'
+description: For the Green Microcycle Plus
 hasPage: false
 inFeed: true
 inNav: false
 keywords: []
 title: Bike Specs
 author: []
-datePublished: '2016-06-03T22:13:07.602Z'
 starred: false
 sourcePath: _posts/2016-05-29-bike-specs.md
 _context: 'http://schema.org'
 _type: Article
 
 ---
-![For The Green Microcycle Plus/Minus](https://the-grid-user-content.s3-us-west-2.amazonaws.com/0b98f17e-24f9-472e-9e07-961084ed7ece.jpg)
+![For the Green Microcycle Plus](https://s3-us-west-2.amazonaws.com/the-grid-img/p/a549cef8e0b1ded3d03f1f1d82222fc0f6546513.jpg)
 
-MODEL: 20″ Folding Green Microcycle Plus/Minus
-
-PRICE: $ 2050 USD (Includes indoor stand and grid-tied and off-grid charging components)
-
+> MODEL: 26″ Step-Through Green Microcycle Plus
+> 
+> PRICE:$ USD (Includes indoor stand and grid-tied and off-grid charging components)
+> 
 > BODY POSITION: Upright Relaxed
 > 
-> SUGGESTED USE: Neighborhood, Urban
+> SUGGESTED USE: Neighborhood, Urban, Beach
 > 
 > WARRANTY: 1 Year Components, 1 Year Battery
 > 
 > AVAILABILITY: United States
 > 
-> **Electronic Details**
+> MOTOR TYPE:Rear-Mounted Gearless Hub
 > 
-> MOTOR TYPE: Rear-Mounted Gearless Hub
-> 
-> NOMINAL OUTPUT: 350watts
+> MOTOR NOMINAL OUTPUT: 350watts
 > 
 > MOTOR BRAND: Shengyi
 > 
@@ -61,9 +59,7 @@ PRICE: $ 2050 USD (Includes indoor stand and grid-tied and off-grid charging com
 > 
 > TOP SPEED: 20 mph
 > 
-> **Bicycle Details**
-> 
-> TOTAL WEIGHT: 53 lbs
+> TOTAL WEIGHT: 58 lbs
 > 
 > BATTERY WEIGHT: 7.5 lbs
 > 
@@ -73,78 +69,20 @@ PRICE: $ 2050 USD (Includes indoor stand and grid-tied and off-grid charging com
 > 
 > SHIFTER DETAILS: Shimano Thumb Shifter on Right Side
 > 
-> BRAKE DETAILS: Tektro Linear Pull Brake System, Wuxing Levers with Motor Inhibitor
+> PEDALS: Aluminum Alloy Platform
 > 
-> GRIPS: Padded Ergonomic
+> STEM: Fixed Promax
 > 
-> SADDLE: Comfort
+> BRAKE DETAILS: Tektro Mechanical Disc with 160 mm Rotors, Tektro Levers with Motor Inhibitor
 > 
-> WHEEL SIZE: 20in
+> GRIPS: Padded Stitched
 > 
-> ACCESSORIES: Bell, Single-Side Kickstand, Front and Rear LED Lights Powered by Main Battery, Plastic Fenders
+> SADDLE: Kmotion Oversized Comfort
 > 
-> OTHER: Removable Battery Pack (Charge on or off the Bike), Quick-Connect Motor Cable for Easy Repair or Replacement
-
-> BODY POSITION: Upright Relaxed
+> SEAT POST: Suspension Shock
 > 
-> SUGGESTED USE: Neighborhood, Urban
+> WHEEL SIZE: 26in
 > 
-> WARRANTY: 1 Year Components, 1 Year Battery
+> ACCESSORIES: Aluminum Alloy Chain Guard, Bell, Single-Side Kickstand, Front LED Light Powered by Main Battery, Metal Fenders
 > 
-> AVAILABILITY: United States
-> 
-> **Electronic Details**
-> 
-> MOTOR TYPE: Rear-Mounted Gearless Hub
-> 
-> NOMINAL OUTPUT: 350watts
-> 
-> MOTOR BRAND: Shengyi
-> 
-> BATTERY VOLTAGE: 36volts
-> 
-> BATTERY AMP HOURS: 10 ah
-> 
-> BATTERY WATT HOURS: 360 wh
-> 
-> BATTERY BRAND: Samsung
-> 
-> BATTERY CHEMISTRY: Lithium-ion
-> 
-> CHARGE TIME: 4.5 hours at 85 watts
-> 
-> ESTIMATED MIN RANGE: 20 miles
-> 
-> ESTIMATED MAX RANGE: 35 miles
-> 
-> DISPLAY TYPE: Backlit LCD on Left Bar
-> 
-> READOUTS: Speed, Odometer, 5 Assist Levels, Battery Voltage
-> 
-> DRIVE MODE: 5 Level Pedal Assist, Thumb Throttle
-> 
-> TOP SPEED: 20 mph
-> 
-> **Bicycle Details**
-> 
-> TOTAL WEIGHT: 53 lbs
-> 
-> BATTERY WEIGHT: 7.5 lbs
-> 
-> FRAME COLOR: Green
-> 
-> GEARING DETAILS: 7 Speed 1x7 Shimano
-> 
-> SHIFTER DETAILS: Shimano Thumb Shifter on Right Side
-> 
-> BRAKE DETAILS: Tektro Linear Pull Brake System, Wuxing Levers with Motor Inhibitor
-> 
-> GRIPS: Padded Ergonomic
-> 
-> SADDLE: Comfort
-> 
-> WHEEL SIZE: 20in
-> 
-> ACCESSORIES: Bell, Single-Side Kickstand, Front and Rear LED Lights Powered by Main Battery, Plastic Fenders
-> 
-> OTHER: Removable Battery Pack (Charge on or off the Bike), Quick-Connect Motor Cable for Easy Repair or Replacement
+> OTHER: Removable Battery Pack (Charge on or off the bike), Quick-Connect Motor Cable for Easy Repair or Replacement
