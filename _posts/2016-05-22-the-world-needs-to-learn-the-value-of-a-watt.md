@@ -1,13 +1,17 @@
 ---
-dateModified: '2016-06-03T21:05:41.214Z'
-datePublished: '2016-06-03T21:05:56.277Z'
+authors: []
+dateModified: '2016-06-03T22:19:19.906Z'
+datePublished: '2016-06-03T22:19:27.584Z'
 description: >-
   By Adam Boesel. After the Paris Climate Agreement, we're all wondering what
   comes next. We will need to make changes, maybe even sacrifices. But which
   ones, and where? I certainly don't have most of those answers, but I do know
   this: People all over the world, especially in developed nations like the USA,
   need to learn the value of a watt.
+hasPage: false
+inFeed: true
 inLanguage: en
+inNav: false
 isBasedOnUrl: >-
   http://cleantechnica.com/2015/12/17/the-world-needs-to-learn-the-value-of-a-watt/
 keywords:
@@ -22,19 +26,15 @@ keywords:
   - energy
   - gym
 publisher:
-  name: CleanTechnica
   domain: cleantechnica.com
-  url: 'http://cleantechnica.com'
   favicon: >-
     http://c1cleantechnicacom.wpengine.netdna-cdn.com/files/2013/06/cleantechnica-news-favicon.jpg
+  name: CleanTechnica
+  url: 'http://cleantechnica.com'
 title: 'READ THIS FIRST: The World Needs To Learn The Value Of A Watt'
 author: []
-sourcePath: _posts/2016-05-22-the-world-needs-to-learn-the-value-of-a-watt.md
-inFeed: true
-hasPage: false
-inNav: false
-authors: []
 starred: true
+sourcePath: _posts/2016-05-22-the-world-needs-to-learn-the-value-of-a-watt.md
 _context: 'http://schema.org'
 _type: MediaObject
 
