@@ -1,17 +1,19 @@
 ---
-authors: []
-dateModified: '2016-05-31T02:18:01.808Z'
-datePublished: '2016-05-31T02:18:15.341Z'
-description: 'This simple bike also makes electricity. The stand doubles as a rack!'
-hasPage: false
 inFeed: true
+hasPage: false
 inNav: false
 isBasedOnUrl: 'https://youtube.com/watch?feature=youtu.be&v=_VWXr-DIMKY'
+inLanguage: null
 keywords: []
+description: This simple bike also makes electricity. The stand doubles as a rack!
+datePublished: '2016-06-04T17:11:13.809Z'
+dateModified: '2016-06-04T16:46:23.439Z'
 title: The Power Plant (prototype - not for sale)
 author: []
-starred: false
 sourcePath: _posts/2016-05-22-free-electric-india-pilot-may-2016-update-230.md
+authors: []
+publisher: null
+starred: false
 _context: 'http://schema.org'
 _type: MediaObject
 
@@ -19,6 +21,6 @@ _type: MediaObject
 ![This simple bike also makes electricity. The stand doubles as a rack!](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c0b3fa0d-f57b-40c4-a273-9ab0b82dfbdb.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8d157b5b-ee75-4ed1-ad45-f3d089e4092b.jpg)
 
-This video (below) is great, but The Green Microcycle (above) is more useful, because you can also use it for transportation.
+The Five Hour Energy Guy recently made a splash with his new Free Electric Bike, designed to help rural people have electricity. This video update of the project (below) is great, but The Green Microcycle (above) is better, because you can also use it for transportation.
 
 <iframe src="https://cdn.embedly.com/widgets/media.html?src=https://www.youtube.com/embed/_VWXr-DIMKY?feature=oembed&amp;url=http://www.youtube.com/watch?v=_VWXr-DIMKY&amp;image=https://i.ytimg.com/vi/_VWXr-DIMKY/hqdefault.jpg&amp;key=b7d04c9b404c499eba89ee7072e1c4f7&amp;type=text/html&amp;schema=youtube" width="854" height="480" scrolling="no" frameborder="0" allowfullscreen="" style=""></iframe>
