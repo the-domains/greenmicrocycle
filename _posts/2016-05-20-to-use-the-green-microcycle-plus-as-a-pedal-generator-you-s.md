@@ -1,16 +1,21 @@
 ---
-authors: []
-dateModified: '2016-05-27T23:11:21.125Z'
-datePublished: '2016-05-27T23:11:28.811Z'
-description: 'To use any Green Microcycle as a pedal generator, you simply put it on the floor stand. It takes about 5 seconds to mount the bike.'
-hasPage: true
 inFeed: true
+hasPage: true
 inNav: false
+inLanguage: null
 keywords: []
+description: >-
+  To use any Green Microcycle as a pedal generator, you simply put it on the
+  floor stand. It takes about 5 seconds to mount the bike.
+datePublished: '2016-06-04T17:44:08.035Z'
+dateModified: '2016-06-04T17:43:57.689Z'
 title: ''
 author: []
+sourcePath: >-
+  _posts/2016-05-20-to-use-the-green-microcycle-plus-as-a-pedal-generator-you-s.md
+authors: []
+publisher: null
 starred: false
-sourcePath: _posts/2016-05-20-to-use-the-green-microcycle-plus-as-a-pedal-generator-you-s.md
 url: to-use-the-green-microcycle-plus-as-a-pedal-generator-you-s/index.html
 _type: Article
 
