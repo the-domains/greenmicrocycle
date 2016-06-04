@@ -1,7 +1,7 @@
 ---
 authors: []
-dateModified: '2016-06-04T16:08:38.694Z'
-datePublished: '2016-06-04T16:08:48.167Z'
+dateModified: '2016-06-04T18:36:50.712Z'
+datePublished: '2016-06-04T18:36:59.984Z'
 description: >-
   By Adam Boesel. After the Paris Climate Agreement, we're all wondering what
   comes next. We will need to make changes, maybe even sacrifices. But which
@@ -31,7 +31,7 @@ publisher:
     http://c1cleantechnicacom.wpengine.netdna-cdn.com/files/2013/06/cleantechnica-news-favicon.jpg
   name: CleanTechnica
   url: 'http://cleantechnica.com'
-title: 'READ THIS FIRST: The World Needs To Learn The Value Of A Watt'
+title: 'Before going further, READ THIS: The World Needs To Learn The Value Of A Watt'
 author: []
 starred: true
 sourcePath: _posts/2016-05-22-the-world-needs-to-learn-the-value-of-a-watt.md
@@ -39,4 +39,4 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/91e88478a0124a39b2f0e98c9fc0957f1f41de52.jpg" /><h1>READ THIS FIRST: The World Needs To Learn The Value Of A Watt</h1><p>By Adam Boesel. After the Paris Climate Agreement, we're all wondering what comes next. We will need to make changes, maybe even sacrifices. But which ones, and where? I certainly don't have most of those answers, but I do know this: People all over the world, especially in developed nations like the USA, need to learn the value of a watt.</p></article>
+<article style=""><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/91e88478a0124a39b2f0e98c9fc0957f1f41de52.jpg" /><h1>Before going further, READ THIS: The World Needs To Learn The Value Of A Watt</h1><p>By Adam Boesel. After the Paris Climate Agreement, we're all wondering what comes next. We will need to make changes, maybe even sacrifices. But which ones, and where? I certainly don't have most of those answers, but I do know this: People all over the world, especially in developed nations like the USA, need to learn the value of a watt.</p></article>
