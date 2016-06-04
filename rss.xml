@@ -4,7 +4,7 @@
         <description><![CDATA[The Electric Bicycle That's Also A Pedal Generator]]></description>
         <link>https://thegrid.ai/greenmicrocycle/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 04 Jun 2016 17:34:14 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 04 Jun 2016 17:44:12 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/greenmicrocycle/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[The Green Microcycle Plus and Plus/Minus]]></title>
@@ -19,6 +19,13 @@
             <link>http://cleantechnica.com/2015/12/17/the-world-needs-to-learn-the-value-of-a-watt/</link>
             <guid isPermaLink="false">5c6817b5-0806-4ef8-8ad4-7ad2c3a6b4ef</guid>
             <pubDate>Sat, 04 Jun 2016 16:08:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f7110c2ee09aea983c5a1c35337dee8ac0c3a86c.jpg">]]></description>
+            <link>https://thegrid.ai/greenmicrocycle/to-use-the-green-microcycle-plus-as-a-pedal-generator-you-s/index.html</link>
+            <guid isPermaLink="false">1e824756-8296-44be-99d1-f9320b87ddf6</guid>
+            <pubDate>Sat, 04 Jun 2016 17:44:08 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[BUY A PLUS/MINUS]]></title>
@@ -61,13 +68,6 @@
             <link>https://youtu.be/97VcbK2Lw44</link>
             <guid isPermaLink="false">bd04ebc3-ab43-4f9c-a3b9-fcc2309a8399</guid>
             <pubDate>Sat, 28 May 2016 15:51:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f7110c2ee09aea983c5a1c35337dee8ac0c3a86c.jpg">]]></description>
-            <link>https://thegrid.ai/greenmicrocycle/to-use-the-green-microcycle-plus-as-a-pedal-generator-you-s/index.html</link>
-            <guid isPermaLink="false">1e824756-8296-44be-99d1-f9320b87ddf6</guid>
-            <pubDate>Fri, 27 May 2016 23:11:28 GMT</pubDate>
         </item>
     </channel>
 </rss>
