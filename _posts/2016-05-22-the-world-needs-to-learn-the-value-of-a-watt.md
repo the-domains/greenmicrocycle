@@ -1,7 +1,7 @@
 ---
 authors: []
-dateModified: '2016-06-03T22:19:19.906Z'
-datePublished: '2016-06-03T22:19:27.584Z'
+dateModified: '2016-06-04T16:08:38.694Z'
+datePublished: '2016-06-04T16:08:48.167Z'
 description: >-
   By Adam Boesel. After the Paris Climate Agreement, we're all wondering what
   comes next. We will need to make changes, maybe even sacrifices. But which
