@@ -6,8 +6,8 @@ isBasedOnUrl: null
 inLanguage: null
 keywords: []
 description: Folds up into a tiny little package!
-datePublished: '2016-06-04T17:46:16.376Z'
-dateModified: '2016-06-04T17:46:12.724Z'
+datePublished: '2016-06-04T17:45:48.617Z'
+dateModified: '2016-06-04T17:45:31.044Z'
 title: The Green Microcycle Plus/Minus
 author: []
 sourcePath: _posts/2016-05-27-green-microcycle-plusminus.md
