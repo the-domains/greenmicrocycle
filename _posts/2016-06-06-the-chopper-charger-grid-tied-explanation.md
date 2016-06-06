@@ -1,17 +1,26 @@
 ---
-dateModified: '2016-06-06T21:25:15.124Z'
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'https://youtu.be/muqN57_n1ZI'
+inLanguage: null
+keywords: []
 description: >-
   This is the world's first electric bike that can also be used as a home pedal
   power generator. You can put it up on the heavy duty kickstand and generate
   between 50 and 100 watts that goes directly back into your home through a
   normal wall outlet.
-inFeed: true
+datePublished: '2016-06-06T21:28:09.990Z'
+dateModified: '2016-06-06T21:26:43.040Z'
 title: The Chopper Charger Grid-Tied Explanation
-isBasedOnUrl: 'https://youtu.be/muqN57_n1ZI'
-author: []
-datePublished: '2016-06-06T21:25:23.452Z'
-starred: false
+author:
+  - name: Adam Boesel
+    url: 'https://www.youtube.com/user/TheGreenMicrogym'
+    avatar: {}
 sourcePath: _posts/2016-06-06-the-chopper-charger-grid-tied-explanation.md
+authors: []
+publisher: null
+starred: false
 _context: 'http://schema.org'
 _type: Article
 
