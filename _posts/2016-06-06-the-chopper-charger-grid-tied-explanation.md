@@ -1,13 +1,21 @@
 ---
-dateModified: '2016-06-06T20:22:11.535Z'
-description: 'https://youtu.be/muqN57_n1ZI'
 inFeed: true
-title: The Chopper Charger Grid-Tied Explanation
+hasPage: false
+inNav: false
 isBasedOnUrl: 'https://youtu.be/muqN57_n1ZI'
-author: []
-datePublished: '2016-06-06T20:23:01.444Z'
-starred: false
+inLanguage: null
+keywords: []
+description: 'https://youtu.be/muqN57_n1ZI'
+datePublished: '2016-06-06T20:47:42.340Z'
+dateModified: '2016-06-06T20:31:27.979Z'
+title: The Chopper Charger Grid-Tied Explanation
+author:
+  - name: ''
+    url: ''
 sourcePath: _posts/2016-06-06-the-chopper-charger-grid-tied-explanation.md
+authors: []
+publisher: null
+starred: false
 _context: 'http://schema.org'
 _type: Article
 
