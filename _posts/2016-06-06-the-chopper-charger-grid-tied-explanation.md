@@ -6,8 +6,8 @@ isBasedOnUrl: 'https://youtu.be/muqN57_n1ZI'
 inLanguage: null
 keywords: []
 description: 'https://youtu.be/muqN57_n1ZI'
-datePublished: '2016-06-06T20:47:42.340Z'
-dateModified: '2016-06-06T20:31:27.979Z'
+datePublished: '2016-06-06T20:48:44.268Z'
+dateModified: '2016-06-06T20:48:27.288Z'
 title: The Chopper Charger Grid-Tied Explanation
 author:
   - name: ''
