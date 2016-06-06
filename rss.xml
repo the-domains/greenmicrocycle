@@ -4,7 +4,7 @@
         <description><![CDATA[The Electric Bicycle That's Also A Pedal Generator]]></description>
         <link>https://thegrid.ai/greenmicrocycle/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 04 Jun 2016 18:37:03 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Jun 2016 20:23:12 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/greenmicrocycle/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Before going further, READ THIS: The World Needs To Learn The Value Of A Watt]]></title>
@@ -19,6 +19,20 @@
             <link>https://thegrid.ai/greenmicrocycle/20ea1ed2-2281-4ea8-aa9c-227305ccb90c/index.html</link>
             <guid isPermaLink="false">20ea1ed2-2281-4ea8-aa9c-227305ccb90c</guid>
             <pubDate>Sat, 04 Jun 2016 17:02:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Chopper Charger Grid-Tied Explanation]]></title>
+            <description><![CDATA[<article><h1>The Chopper Charger Grid-Tied Explanation</h1><p>https://youtu.be/muqN57_n1ZI</p></article>]]></description>
+            <link>https://youtu.be/muqN57_n1ZI</link>
+            <guid isPermaLink="false">de203cb2-4b18-4fcf-8629-ae4e19fadfbc</guid>
+            <pubDate>Mon, 06 Jun 2016 20:23:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>https://youtu.be/muqN57_n1ZI</p>]]></description>
+            <link>https://thegrid.ai/greenmicrocycle/httpsyoutubemuqn57_n1zi/index.html</link>
+            <guid isPermaLink="false">5f1c1557-b9e4-40da-889d-dfc9c2ab37c0</guid>
+            <pubDate>Mon, 06 Jun 2016 20:11:40 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -61,13 +75,6 @@
             <link>https://thegrid.ai/greenmicrocycle/seriously-interested-but-totally-confused/index.html</link>
             <guid isPermaLink="false">36b3d9c1-9328-4291-893c-f04538427116</guid>
             <pubDate>Tue, 31 May 2016 04:27:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Off Grid Charging Options for The Green Microgym's Pedal Generator]]></title>
-            <description><![CDATA[<article><h1>Off Grid Charging Options for The Green Microgym's Pedal Generator</h1><p>Charging a 12 volt battery with The Green Microcycle is very simple.</p></article>]]></description>
-            <link>https://youtu.be/97VcbK2Lw44</link>
-            <guid isPermaLink="false">bd04ebc3-ab43-4f9c-a3b9-fcc2309a8399</guid>
-            <pubDate>Sat, 28 May 2016 15:51:23 GMT</pubDate>
         </item>
     </channel>
 </rss>
