@@ -4,7 +4,7 @@
         <description><![CDATA[The Electric Bicycle That's Also A Pedal Generator]]></description>
         <link>https://thegrid.ai/greenmicrocycle/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 08 Jun 2016 14:44:40 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Jun 2016 17:42:04 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/greenmicrocycle/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Before going further, READ THIS: The World Needs To Learn The Value Of A Watt]]></title>
@@ -21,8 +21,15 @@
             <pubDate>Sat, 04 Jun 2016 17:02:41 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Green Microcycle Plus: The world's first electric bike that doubles as a pedal generator]]></title>
+            <description><![CDATA[<article><h1>Green Microcycle Plus: The world's first electric bike that doubles as a pedal generator</h1><p></p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/0065fb1785d159cc6fcb65543a73b5d9/noop.jpg?input=http%3A%2F%2Fmedia.treehugger.com%2Fassets%2Fimages%2F2016%2F06%2FGreenMicrocyclePlus.jpg.600x315_q90_crop-smart.jpg"></article>]]></description>
+            <link>http://www.treehugger.com/bikes/green-microcycle-worlds-first-electric-bike-doubles-pedal-generator.html</link>
+            <guid isPermaLink="false">b2362adf-4f86-4731-a238-c8a5d2f106e6</guid>
+            <pubDate>Wed, 15 Jun 2016 17:41:59 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Mounts In 5 Seconds]]></title>
-            <description><![CDATA[<article><h1>Mounts In 5 Seconds</h1><p>The Green Microcycle Mounts Onto Its Charging Stand Very Easily. You can then use it to generate 30-100 watts of grid-tied or off-grid electricity.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/697354b0c7d4721b672c1278b2144da19c78adbd.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Mounts In 5 Seconds</h1><p>The Green Microcycle Mounts Onto Its Charging Stand Very Easily. You can then use it to generate 30-100 watts of grid-tied or off-grid electricity.</p></article>]]></description>
             <link>https://youtu.be/IPiwXUYwdCw</link>
             <guid isPermaLink="false">4e2eb819-a5ef-4a8b-9d34-62f7a262ff5b</guid>
             <pubDate>Wed, 08 Jun 2016 14:44:32 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>https://youtube.com/watch?feature=youtu.be&amp;v=_VWXr-DIMKY</link>
             <guid isPermaLink="false">56d69613-76c9-43c1-b901-093eebe79e3b</guid>
             <pubDate>Sat, 04 Jun 2016 17:11:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Compares to these leading ebikes...]]></title>
-            <description><![CDATA[<article><h1>Compares to these leading ebikes...</h1><p>Price: $2995</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b611ddec0939157c9150c6cee9956fbbb63c569e.jpg"></article>]]></description>
-            <link>https://electricbikereview.com/easy-motion/neo-volt/</link>
-            <guid isPermaLink="false">022d5a26-e33b-4543-bbd3-0d42b9c4c754</guid>
-            <pubDate>Tue, 31 May 2016 04:34:49 GMT</pubDate>
         </item>
     </channel>
 </rss>
